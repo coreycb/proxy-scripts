@@ -1,0 +1,3 @@
+# source proxy-unset-snap
+unset SNAPSTACK_HTTP_PROXY
+unset SNAPSTACK_HTTPS_PROXY
